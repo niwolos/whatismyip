@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.leaflet-container {
+  width: 66%;
+  height: 66vh;
+  margin-left: 16.66%;
+  margin-top: 6.66vh;
+}
+
+.country_flag {
+  max-height: 10vh;
+  max-width: 15%;
+}
